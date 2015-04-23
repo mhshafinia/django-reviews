@@ -1,0 +1,1 @@
+A generic review application for Django projects, which allows association of a number of reviews with any Model instance and makes retrieval of reviews simple.
